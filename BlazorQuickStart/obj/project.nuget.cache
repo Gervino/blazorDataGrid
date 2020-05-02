@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "B8xyjIvTenCb4bljDFTdQ8OhVTPlRgBUf9lU5oJEC5LMA6H3iYWvWFpD11I2SKuD3ZNfUvHmVpjDmepDaoRgEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kouge\\source\\repos\\BlazorQuickStart\\BlazorQuickStart\\BlazorQuickStart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kouge\\.nuget\\packages\\blazorise\\0.9.0.1\\blazorise.0.9.0.1.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\blazorise.bootstrap\\0.9.0.1\\blazorise.bootstrap.0.9.0.1.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\blazorise.datagrid\\0.9.0.1\\blazorise.datagrid.0.9.0.1.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\blazorise.icons.fontawesome\\0.9.0.1\\blazorise.icons.fontawesome.0.9.0.1.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.3\\microsoft.aspnetcore.components.analyzers.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.3\\microsoft.aspnetcore.components.forms.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.3\\microsoft.aspnetcore.components.web.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.3\\microsoft.aspnetcore.metadata.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.jsinterop\\3.1.3\\microsoft.jsinterop.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

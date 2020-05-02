@@ -1,0 +1,24 @@
+﻿<div class="forecast-item @SelectedCss" @onclick="@HandleOnSelected">
+    <span class="@Outlook.ToLower()"></span>
+    <div class="temperature"> @Temperature&deg;</div>
+    @CustomMessage
+    <p>@Outlook weather expected @DayOfWeek.</p>
+</div>
+
+@code {
+    [Parameter] public bool Selected { get; set; } = false;
+    string SelectedCss => Selected ? "forecast-item--selected": String.Empty;
+
+    [Parameter] public EventCallback<DayOfWeek> OnSelected { get; set; }
+    //[Parameter] public Action<DayOfWeek> OnSelected { get; set; }
+
+    void HandleOnSelected()
+    {
+        OnSelected.InvokeAsync(this.DayOfWeek);
+    }
+
+    [Parameter] public string Outlook { get; set; }
+    [Parameter] public int Temperature { get; set; }
+    [Parameter] public DayOfWeek DayOfWeek { get; set; }
+    [Parameter] public RenderFragment CustomMessage { get; set; }
+}
